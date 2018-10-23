@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/reactmaterial/static/css/main.675ee186.chunk.css"
   },
   {
-    "revision": "a13c9f57f9dd30588d7d8cd8c93e6682",
+    "revision": "c653cb08b7ecea8af0d184cece59d079",
     "url": "/reactmaterial/index.html"
   }
 ];
