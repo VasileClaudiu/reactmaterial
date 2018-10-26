@@ -1,7 +1,7 @@
 {
   "main.css": "/reactmaterial/static/css/main.0f9a6701.chunk.css",
-  "main.js": "/reactmaterial/static/js/main.89e4e625.chunk.js",
-  "main.js.map": "/reactmaterial/static/js/main.89e4e625.chunk.js.map",
+  "main.js": "/reactmaterial/static/js/main.08855da7.chunk.js",
+  "main.js.map": "/reactmaterial/static/js/main.08855da7.chunk.js.map",
   "static/js/1.4d94addb.chunk.js": "/reactmaterial/static/js/1.4d94addb.chunk.js",
   "static/js/1.4d94addb.chunk.js.map": "/reactmaterial/static/js/1.4d94addb.chunk.js.map",
   "runtime~main.js": "/reactmaterial/static/js/runtime~main.92b0e60f.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/reactmaterial/static/media/logo.5d5d9eef.svg",
   "static/css/main.0f9a6701.chunk.css.map": "/reactmaterial/static/css/main.0f9a6701.chunk.css.map",
   "index.html": "/reactmaterial/index.html",
-  "precache-manifest.eb3da651814b02596262f5a6a142ce4f.js": "/reactmaterial/precache-manifest.eb3da651814b02596262f5a6a142ce4f.js",
+  "precache-manifest.50ade922aabe9eec39b3a71599ff40aa.js": "/reactmaterial/precache-manifest.50ade922aabe9eec39b3a71599ff40aa.js",
   "service-worker.js": "/reactmaterial/service-worker.js"
 }
